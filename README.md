@@ -1,5 +1,7 @@
 # funbot-projects
-Códigos y librerías para el curso
+Códigos y librerías para el curso de robótica
+
+![alt text](https://github.com/funbot7/funbot-projects/blob/master/images/VID_20190104_142146_Moment.jpg)
 
 # ACTUALIZACIÓN 2
 1. Se añadieron las siguientes guías:
