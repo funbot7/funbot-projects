@@ -22,6 +22,12 @@ Códigos y librerías para el curso de robótica
   
   - HC05_BT_config (Configura con el nombre Zowi el Bluetooth HC05)
   
+  
+  
+  
+  
+  
+  
   ![alt text](https://github.com/funbot7/funbot-projects/blob/master/images/backgroundAsset%201ldpi.png)
 
 
